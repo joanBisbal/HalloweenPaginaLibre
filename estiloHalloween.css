@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:monospace;
+    margin: 30px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+    color:blue;
+}
+h3 {
+    font-size: 30px;
+    color: darkorange;
+}
+p {
+    color: rgb(0, 0, 0);
+    background-color: darkorange;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+}
+b {
+    color: rgb(126, 121, 121)
+}
+i {
+    color: rgb(17, 0, 255);
+}
+img {
+    width: 350px;
+    text-align: center;
+}
+h1 img {
+    width: 50px;
+    margin-left: 0%;
+}
